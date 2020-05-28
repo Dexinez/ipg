@@ -31,7 +31,6 @@
         "offset": -8,
         "current_time": "2019-01-14 03:30:00.135-0800",
         "current_time_unix": 1547465400.135,
-        "is_dst": false,
         "dst_savings": 1
     }
 }
